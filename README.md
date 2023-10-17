@@ -2,4 +2,3 @@
 echo " learning devops"
 echo "job build using webhooks "
 echo " update trigger"
-echo " update trigger
